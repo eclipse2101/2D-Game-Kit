@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 276, y: 292}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 126
+  controlID: 137
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -119,8 +119,8 @@ MonoBehaviour:
     y: 0
     width: 605
     height: 834
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -201,7 +201,7 @@ MonoBehaviour:
     y: 0
     width: 2560
     height: 1302
-  m_MinSize: {x: 875, y: 300}
+  m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -400,22 +400,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/2DGamekit/Prefabs/Interactables
+    - Assets/2DGamekit/Prefabs/Environment
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/2DGamekit/Prefabs/Interactables
+  - Assets/2DGamekit/Prefabs/Environment
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/game1/2D Game Kit
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1c690000
-    m_LastClickedID: 26908
-    m_ExpandedIDs: 000000001a4e00002a4e0000324e0000344e00004a4e000000ca9a3b
+    m_SelectedIDs: 6c4e0000
+    m_LastClickedID: 20076
+    m_ExpandedIDs: 00000000224e0000584e0000604e0000624e00006e50000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -443,7 +443,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000001a4e0000
+    m_ExpandedIDs: 00000000224e0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -471,7 +471,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c62300008c5e0000164a0000
+    m_ExpandedInstanceIDs: c62300008c5e0000164a0000605d0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -565,10 +565,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 3cfbffff
+      scrollPos: {x: 0, y: 5}
+      m_SelectedIDs: 3afbffff
+      m_LastClickedID: -1222
+      m_ExpandedIDs: 3cfbffff64430000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -629,9 +629,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 122.96735, y: -5.094972, z: -287.1335}
+    m_Target: {x: 55.481678, y: 19.718767, z: -1148.8317}
     speed: 2
-    m_Value: {x: 122.96316, y: -5.094117, z: -287.13342}
+    m_Value: {x: 55.481678, y: 19.718767, z: -1148.8317}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -682,9 +682,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 8.912168
+    m_Target: 10.316706
     speed: 2
-    m_Value: 8.905488
+    m_Value: 10.316706
   m_Ortho:
     m_Target: 1
     speed: 2
