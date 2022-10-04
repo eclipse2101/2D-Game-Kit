@@ -50,4 +50,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/NewScene.unity
     guid: 12a5c13e90cb94881b2c591d8bf07b45
+  - enabled: 1
+    path: Assets/lvl 2.unity
+    guid: 56f8bce8e14044fe0aa750ec24007f5f
   m_configObjects: {}
